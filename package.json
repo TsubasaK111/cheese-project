@@ -9,7 +9,8 @@
     "server-start": "node server.js",
     "lint": "vue-cli-service lint",
     "build": "yarn client-build",
-    "start": "yarn server-start"
+    "start": "yarn server-start",
+    "test": "echo no tests!"
   },
   "dependencies": {
     "axios": "^0.24.0",
