@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ this.msg }}</h1>
-    <h2>{{ this.apiMsg }}</h2>
+    <h1>{{ this.apiMsg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
